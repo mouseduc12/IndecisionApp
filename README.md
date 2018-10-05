@@ -1,3 +1,3 @@
 # IndecisionApp
-This app is belonging to Andrew Mead. I'm thankful to complete this project through Andrew Mead's course.
+This app is belonging to Andrew Mead. I'm thankful to completing this project through Andrew Mead's course.
 It helped me understand React-router, state and props, etc...
